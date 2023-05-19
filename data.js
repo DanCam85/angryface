@@ -32,7 +32,7 @@ export const catsData = [
   {
     emotionTags: ["annoyed"],
     isGif: false,
-    image: "annoyed3.webp",
+    image: "annoyed3.jpg",
     alt: "",
   },
   {
